@@ -1,1 +1,2 @@
 "My Profile Info" 
+"Updated profile details" 
